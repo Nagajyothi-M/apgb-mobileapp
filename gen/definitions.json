@@ -1,0 +1,22 @@
+{
+    "structures":[
+    ],
+    "entities":[
+    ],
+    "metaInfo":{
+        "appName":"mobileapp",
+        "apiVersion":"1.0",
+        "packageName": "apgb",
+        "generatePresence":true,
+        "generateClient":true,
+        "generateTests":true,
+        "transports":[
+            "amqp",
+            "xmpp",
+            "rest",
+            "websocket",
+            "jsonrpc",
+            "pure"
+        ]
+    }
+}
